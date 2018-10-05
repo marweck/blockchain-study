@@ -39,7 +39,7 @@ https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452
 
   https://github.com/wearetheledger/fabric-network-boilerplate
 
-- Very Good Example of REST Client written in Typescript/Node/Nest.js
+- Very Good Example of Backend for interacting with the Fabric network using a REST API (Typescript, Nestjs, swagger, pusher).
 
   https://github.com/wearetheledger/hyperledger-typescript-boilerplate
 
