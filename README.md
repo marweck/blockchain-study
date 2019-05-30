@@ -11,27 +11,27 @@ https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452
 
 - Ledger
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/ledger/ledger.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/ledger/ledger.html
 
 - Fabric Network
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/network/network.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/network/network.html
 
 - Identity
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/identity/identity.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/identity/identity.html
 
 - Membership
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/membership/membership.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/membership/membership.html
 
 - Peers
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/peers/peers.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/peers/peers.html
 
 - Private Data
 
-  https://hyperledger-fabric.readthedocs.io/en/release-1.2/private-data/private-data.html
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/private-data/private-data.html
 
 - Metrics
 
