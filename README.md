@@ -33,6 +33,10 @@ https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452
 
   https://hyperledger-fabric.readthedocs.io/en/release-1.2/private-data/private-data.html
 
+- Metrics
+
+  https://hyperledger-fabric.readthedocs.io/en/release-1.4/metrics_reference.html
+  
 ### Code Examples
 
 - Basic Chaincode example written in Typescript/Node
