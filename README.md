@@ -57,5 +57,14 @@ https://medium.com/swlh/hyperledger-chapter-1-foundation-7ad5bd94d452
 
 ### Hyperledger on kurbenetes
 
+- Hyperledger Fabric blog on how to deploy blockchain on k8s
 
-https://github.com/IBM/blockchain-network-on-kubernetes
+  https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii
+
+- IBM guide on deploying Hyperledger Fabric blockchain on k8s
+  
+  https://github.com/IBM/blockchain-network-on-kubernetes
+
+- Documentation on Hyperledger Fabric on k8s
+  
+  https://github.com/APGGroeiFabriek/PIVT
